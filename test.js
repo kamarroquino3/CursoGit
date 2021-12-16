@@ -1,1 +1,1 @@
-PRUEBA
+PRUEBA desde registro
